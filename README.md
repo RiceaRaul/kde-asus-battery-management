@@ -1,0 +1,1 @@
+# kde-asus-battery-management
